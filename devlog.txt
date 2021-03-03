@@ -1,0 +1,8 @@
+intersection between ray and plane:
+https://antongerdelan.net/opengl/raycasting.html
+http://geomalgorithms.com/a05-_intersect-1.html
+
+mark edges when rendering:
+https://stackoverflow.com/questions/31539130/display-wireframe-and-solid-color
+https://stackoverflow.com/questions/45917611/shader-wireframe-of-an-object
+
